@@ -1,0 +1,17 @@
+export const fontNames = {
+  POPPINS_FONT_FAMILY_MEDIUM: 'Poppins-Medium',
+  POPPINS_FONT_FAMILY_REGULAR: 'Poppins-Regular',
+  POPPINS_FONT_FAMILY_SEMI_BOLD: 'Poppins-SemiBold',
+  POPPINS_FONT_FAMILY_BOLD: 'Poppins-Bold',
+  POPPINS_FONT_FAMILY_BLACK: 'Poppins-Black',
+  POPPINS_FONT_FAMILY_EXTRA_BOLD: 'Poppins-ExtraBold',
+  POPPINS_FONT_FAMILY_EXTRA_LIGHT: 'Poppins-ExtraLight',
+  POPPINS_FONT_FAMILY_LIGHT: 'Poppins-Light',
+  POPPINS_FONT_FAMILY_THIN: 'Poppins-Thin',
+  //ROBOTO
+  ROBOTO_FONT_FAMILY_BLACK: 'Roboto-Black',
+  ROBOTO_FONT_FAMILY_BOLD: 'Roboto-Bold',
+  ROBOTO_FONT_FAMILY_LIGHT: 'Roboto-Light',
+  ROBOTO_FONT_FAMILY_MEDIUM: 'Roboto-Medium',
+  ROBOTO_FONT_FAMILY_REGULAR: 'Roboto-Regular',
+};
